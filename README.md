@@ -20,8 +20,8 @@ Esse projeto utiliza o framework playwright de testes automatizados para cancela
 
 ### Passos
 
-Insira as informações de login no arquivo login.json
+Insira as informações de login no arquivo `login.json`
 
-Insira as aulas que serão canceladas no cancelaaula.json
+Insira as aulas que serão canceladas no `cancelaaula.json`
 
-Execute o teste através do painel lateral do playwright
+Execute o teste através do painel lateral do playwright (https://playwright.dev/docs/getting-started-vscode)
